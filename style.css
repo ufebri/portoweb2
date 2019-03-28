@@ -1,0 +1,47 @@
+header {
+  color: aquamarine;
+  background-color: black;
+}
+
+nav {
+  background-color: black;
+  width: 100%;
+  height: 20vh;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+img {
+  margin-top: 150px;
+  width: 150px;
+  height: 150px;
+}
+
+p {
+  align-content: center;
+  color: green;
+}
+
+.kalimat-satu {
+  color: red;
+}
+
+#kalimatSatu {
+  font-weight: bold;
+}
+
+#inputSatu {
+  margin-top: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.input-satu {
+  margin-top: 10px;
+  margin: 10px;
+  padding: 10px;
+}
