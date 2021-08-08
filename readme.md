@@ -4,8 +4,8 @@ Portoweb 2 is Personal Portfolio Web Project made with [Bootstrap v5](https://ge
 
 ## Assets
 
-[GetWaves](https://getwaves.io/) - Made Waves SVG
-[Squoosh](https://squoosh.app/) - Convert image to low size with good quality
+- [GetWaves](https://getwaves.io/) - Made Waves SVG
+- [Squoosh](https://squoosh.app/) - Convert image to low size with good quality
 
 ### Screenshoot
 
