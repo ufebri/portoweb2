@@ -7,6 +7,7 @@ Portoweb 2 is Personal Portfolio Web Project made with [Bootstrap v5](https://ge
 - [GetWaves](https://getwaves.io/) - Made Waves SVG
 - [Squoosh](https://squoosh.app/) - Convert image to low size with good quality
 - [Submit a Form to Google Sheets](https://github.com/jamiewilson/form-to-google-sheets) - Collect messages contact form with Google Sheet
+- [AOS](https://michalsnik.github.io/aos/) - Animate on Scroll Library
 
 ### Screenshoot
 
